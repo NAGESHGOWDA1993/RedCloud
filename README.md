@@ -1,6 +1,6 @@
 Hello World Microservice
 
-This project contains a simple "Hello World" microservice built with Nginx and Docker, and deployed on AWS Fargate using Jenkins for CI/CD.
+This project contains a simple "Hello World" microservice built with Nginx and Docker, and deployed on AWS Fargate using Jenkins for CI/CD Pipeline.
 
 Prerequisites
 Docker installed locally.
